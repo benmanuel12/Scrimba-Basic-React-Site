@@ -1,4 +1,4 @@
-# co76b46f2a8c2c72363173f9a
+# Scrimba Basic React Site
 
 Quick start:
 
